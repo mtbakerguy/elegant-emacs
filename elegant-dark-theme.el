@@ -57,7 +57,7 @@
 		    :weight 'regular)
 (set-face-attribute 'face-salient nil :foreground "#dca3a3"
 		    :weight 'light)
-(set-face-attribute 'face-faded nil :foreground "#777767"
+(set-face-attribute 'face-faded nil :foreground "#7777c7"
 		    :weight 'light)
 (set-face-attribute 'face-subtle nil :background "#4f4f4f")
 (set-modeline-faces)
